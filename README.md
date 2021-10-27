@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rraavi729
+- 👋 Hi, I’m @Rishi Prasad Raavi
 - 👀 I’m interested in Analytics and Data Handling
 - 🌱 I’m currently doing Masters in Science Business Analytics
 - 💞️ I’m looking to collaborate on Data Analysis
